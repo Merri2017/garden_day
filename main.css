@@ -1,5 +1,21 @@
+
 header {
 	background-image: url("header_pics/leaf.jpg");
 	color: yellow;
 	text-align: center;
 }
+
+.fa:hover {
+      opacity: 0.7;
+}
+
+/*Set a specific color for each brand*/
+
+/* Facebook */
+.fa-linkedIn img, .fa-twitter img {
+      width: 20px;
+}
+/* Twitter  */
+footer {
+      text-align: center;
+
